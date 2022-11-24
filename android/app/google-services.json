@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482864372442",
+    "project_id": "messanger-bcff7",
+    "storage_bucket": "messanger-bcff7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482864372442:android:1c51ad533fa8d1c466e3e3",
+        "android_client_info": {
+          "package_name": "com.example.my_simple_messanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482864372442-2glc3eqt0ob71g3jdnc5v1uo5qnka4mo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs57zAw52j-mZGc7tZJcZr5_Tm2tigFvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482864372442-2glc3eqt0ob71g3jdnc5v1uo5qnka4mo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
